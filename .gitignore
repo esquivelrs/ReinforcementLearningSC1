@@ -1,0 +1,9 @@
+# Data
+data_rect/
+data/
+data_rect/
+out/
+runs/
+
+#Objects
+.pickle
