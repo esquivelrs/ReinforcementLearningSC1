@@ -7,3 +7,9 @@ runs/
 
 #Objects
 .pickle
+
+# Devenv
+build
+.vagrant
+.Trash*
+.ipynb_checkpoints/
